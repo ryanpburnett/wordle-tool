@@ -1,6 +1,4 @@
-const l = (log) => {
-    console.log(log);
-}
+const { log: l } = console;
 
 let key = "60b91a70-b0fa-46f0-af94-6a631c4726a6";
 let word = "bad"
